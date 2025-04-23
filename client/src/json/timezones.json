@@ -1,0 +1,178 @@
+[
+  {
+    "value": "Africa/Cairo",
+    "name": "Africa/Cairo"
+  },
+  {
+    "value": "Africa/Johannesburg",
+    "name": "Africa/Johannesburg"
+  },
+  {
+    "value": "Africa/Lagos",
+    "name": "Africa/Lagos"
+  },
+  {
+    "value": "Africa/Monrovia",
+    "name": "Africa/Monrovia"
+  },
+  {
+    "value": "America/Anchorage",
+    "name": "America/Anchorage"
+  },
+  {
+    "value": "America/Chicago",
+    "name": "America/Chicago"
+  },
+  {
+    "value": "America/Denver",
+    "name": "America/Denver"
+  },
+  {
+    "value": "America/Edmonton",
+    "name": "America/Edmonton"
+  },
+  {
+    "value": "America/Jamaica",
+    "name": "America/Jamaica"
+  },
+  {
+    "value": "America/Los_Angeles",
+    "name": "America/Los_Angeles"
+  },
+  {
+    "value": "America/Mexico_City",
+    "name": "America/Mexico_City"
+  },
+  {
+    "value": "America/Montreal",
+    "name": "America/Montreal"
+  },
+  {
+    "value": "America/New_York",
+    "name": "America/New_York"
+  },
+  {
+    "value": "America/Phoenix",
+    "name": "America/Phoenix"
+  },
+  {
+    "value": "America/Puerto_Rico",
+    "name": "America/Puerto_Rico"
+  },
+  {
+    "value": "America/Sao_Paulo",
+    "name": "America/Sao_Paulo"
+  },
+  {
+    "value": "America/Toronto",
+    "name": "America/Toronto"
+  },
+  {
+    "value": "America/Vancouver",
+    "name": "America/Vancouver"
+  },
+  {
+    "value": "Asia/Bangkok",
+    "name": "Asia/Bangkok"
+  },
+  {
+    "value": "Asia/Dhaka",
+    "name": "Asia/Dhaka"
+  },
+  {
+    "value": "Asia/Dubai",
+    "name": "Asia/Dubai"
+  },
+  {
+    "value": "Asia/Hong_Kong",
+    "name": "Asia/Hong_Kong"
+  },
+  {
+    "value": "Asia/Jerusalem",
+    "name": "Asia/Jerusalem"
+  },
+  {
+    "value": "Asia/Karachi",
+    "name": "Asia/Karachi"
+  },
+  {
+    "value": "Asia/Manila",
+    "name": "Asia/Manila"
+  },
+  {
+    "value": "Asia/Seoul",
+    "name": "Asia/Seoul"
+  },
+  {
+    "value": "Asia/Tokyo",
+    "name": "Asia/Tokyo"
+  },
+  {
+    "value": "Atlantic/Reykjavik",
+    "name": "Atlantic/Reykjavik"
+  },
+  {
+    "value": "Australia/Perth",
+    "name": "Australia/Perth"
+  },
+  {
+    "value": "Australia/Sydney",
+    "name": "Australia/Sydney"
+  },
+  {
+    "value": "Europe/Athens",
+    "name": "Europe/Athens"
+  },
+  {
+    "value": "Europe/Berlin",
+    "name": "Europe/Berlin"
+  },
+  {
+    "value": "Europe/Brussels",
+    "name": "Europe/Brussels"
+  },
+  {
+    "value": "Europe/Copenhagen",
+    "name": "Europe/Copenhagen"
+  },
+  {
+    "value": "Europe/London",
+    "name": "Europe/London"
+  },
+  {
+    "value": "Europe/Madrid",
+    "name": "Europe/Madrid"
+  },
+  {
+    "value": "Europe/Moscow",
+    "name": "Europe/Moscow"
+  },
+  {
+    "value": "Europe/Paris",
+    "name": "Europe/Paris"
+  },
+  {
+    "value": "Europe/Prague",
+    "name": "Europe/Prague"
+  },
+  {
+    "value": "Europe/Rome",
+    "name": "Europe/Rome"
+  },
+  {
+    "value": "Europe/Warsaw",
+    "name": "Europe/Warsaw"
+  },
+  {
+    "value": "Pacific/Guam",
+    "name": "Pacific/Guam"
+  },
+  {
+    "value": "Pacific/Honolulu",
+    "name": "Pacific/Honolulu"
+  },
+  {
+    "value": "Pacific/Midway",
+    "name": "Pacific/Midway"
+  }
+]
